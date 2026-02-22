@@ -45,11 +45,11 @@
     "vuex": "3.1.0"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "3.4.x",
+    "@vue/cli-plugin-babel": "5.0.x",
     "@vue/cli-plugin-e2e-cypress": "3.4.x",
-    "@vue/cli-plugin-eslint": "3.4.x",
+    "@vue/cli-plugin-eslint": "5.0.x",
     "@vue/cli-plugin-unit-jest": "3.4.x",
-    "@vue/cli-service": "3.4.x",
+    "@vue/cli-service": "5.0.x",
     "@vue/eslint-config-prettier": "4.0.x",
     "@vue/eslint-config-standard": "4.0.x",
     "@vue/test-utils": "1.0.0-beta.29",
@@ -73,7 +73,7 @@
     "stylelint-config-standard": "18.2.x",
     "stylelint-scss": "3.5.x",
     "vue-template-compiler": "2.6.6",
-    "vuepress": "0.14.x"
+    "vuepress": "1.9.x"
   },
   "engines": {
     "node": ">=8.9.0",
